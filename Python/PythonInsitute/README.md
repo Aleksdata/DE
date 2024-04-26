@@ -1,7 +1,7 @@
 ## Progress
-**[Python Essentials 1](https://pythoninstitute.org/python-essentials-1)** ![PE1](https://progress-bar.dev/50?title=current)
+**[Python Essentials 1](https://pythoninstitute.org/python-essentials-1)** ![PE1](https://progress-bar.dev/100?title=done)
 
-**[Python Essentials 2](https://pythoninstitute.org/python-essentials-2)** ![PE2](https://progress-bar.dev/0)
+**[Python Essentials 2](https://pythoninstitute.org/python-essentials-2)** ![PE2](https://progress-bar.dev/0?title=current)
 
 **[Python Advanced 1](https://pythoninstitute.org/python-professional-1)** ![Advanced OOP](https://progress-bar.dev/0)
 
